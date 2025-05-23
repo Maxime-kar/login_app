@@ -1,0 +1,3 @@
+hashed_password:scrypt:32768:8:1$EybBEtqCZT57y0tZ$2348959f4a776d324dcfdb0e45810bcdb80b958267e92970e56821b7a0849fb441de53c7835285b0cc121115a99a888f355f181919cda0cb8de6b5e7064c0605
+full_name:Hala
+email:Halamdrid@gmail.com

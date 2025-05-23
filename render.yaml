@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: flask-web-service
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn app:app
+    plan: free
+    branch: main
+    autoDeploy: true
